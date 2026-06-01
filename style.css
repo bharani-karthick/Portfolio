@@ -466,6 +466,7 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 12px;
+  color: #374151;
   border: 1px solid #e5e7eb;
   display: flex;
   align-items: center;
@@ -478,10 +479,10 @@ body {
  box-shadow: 0 12px 30px rgba(0,0,0,0.08);
 }
 
-.social-icons i {
+.social-icons svg {
   width: 18px;
   height: 18px;
-  color: #374151;
+  stroke: #374151;
 }
 
 .footer {
